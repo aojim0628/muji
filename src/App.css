@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  exclude: rootscrollgutter, rootcolor;
+}
+
+#root {
+    /* max-width: 1280px;  */
+    margin: 0 auto;
+    text-align: center; 
+  }

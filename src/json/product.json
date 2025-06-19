@@ -1,0 +1,58 @@
+[
+    {
+        "id": "good1",
+        "cartagory":"Toy", 
+        "name": "【限定】貓用玩具/軟木/魚",
+        "sku": "sku_1111",
+        "price": "110",
+        "image": "/images/good1.jpg",
+        "describtion": "天然無毒，多樣款式。"
+    },
+    {
+        "id": "good2",
+        "cartagory":"Toy", 
+        "name": "女足口柔軟舒適直角短襪淡藍",
+        "sku": "sku_1112",
+        "price": "99",
+        "image": "/images/good2.jpg",
+        "describtion": "表面和與肌膚接觸的內側使用棉質，並添加彈性織線的設計。"
+    },
+    {
+        "id": "good3",
+        "cartagory":"cloth", 
+        "name": "女馬杜拉斯格紋細肩帶套衫象牙白格紋",
+        "sku": "sku_1113",
+        "price": "690",
+        "image": "/images/good3.jpg",
+        "describtion": ""
+    },
+    {
+        "id": "good4",
+        "cartagory":"food", 
+        "name": "義大利麵醬　起司蛋黃醬",
+        "sku": "sku_1114",
+        "price": "149",
+        "image": "/images/good4.jpg",
+        "describtion": ""
+    },
+    {
+        "id": "good5",
+        "cartagory":"furniture", 
+        "name": "無扶手簡約沙發/3人座/聚酯平織/灰色",
+        "sku": "sku_1115",
+        "price": "25,990",
+        "image": "/images/good5.jpg",
+        "describtion": ""
+    },
+    {
+        "id": "good6",
+        "cartagory":"cloth", 
+        "name": "男透氣彈性泡泡紗開領短袖襯衫淺灰",
+        "sku": "sku_1116",
+        "price": "790",
+        "image": "/images/good6.jpg",
+        "describtion": ""
+    }
+
+
+]
